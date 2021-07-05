@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/UnivIntel.Common/obj
+/UnivIntel.Common/bin/Debug/netstandard2.0
+/UnivIntel.GBN.Core/bin/Debug/netstandard2.1
+/UnivIntel.GBN.Core/obj
+/UnivIntel.GBN.WebApi/obj
+/UnivIntel.GBN.WebApi/bin/Debug/netcoreapp3.1
+/UnivIntel.GBN.WebApp/bin/Debug/netcoreapp2.2
+/UnivIntel.GBN.WebApp/obj
+/GBN.Core/bin/Debug/netcoreapp3.0
+/GBN.Core/obj
+/GBN.WebApp/bin/Debug/netcoreapp3.0
+/GBN.WebApp/obj
+/UnivIntel.PostgreSQL.Core/bin/Debug/netstandard2.1
+/UnivIntel.PostgreSQL.Core/obj
+/UnivIntel.PostgreSQL.ORM.Core/bin/Debug/netstandard2.1
+/UnivIntel.PostgreSQL.ORM.Core/obj
+/GBN.WebApp/bin/Debug/netcoreapp3.1
+/GBN.Core/bin/Debug/netcoreapp3.1
